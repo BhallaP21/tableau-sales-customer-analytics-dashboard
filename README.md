@@ -172,4 +172,5 @@ tableau-sales-customer-analytics-dashboard/
 
 ## Author
 
-Parth Bhalla
+👤 **Parth Bhalla**  
+🔗 [LinkedIn](https://www.linkedin.com/in/parth-bhalla-a00a56235/) 
