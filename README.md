@@ -161,7 +161,6 @@ tableau-sales-customer-analytics-dashboard/
 ├── dashboards/
 ├── dataset/
 ├── documents/
-└── assets/
 ```
 
 ---
