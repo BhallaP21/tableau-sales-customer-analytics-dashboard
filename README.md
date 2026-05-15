@@ -157,10 +157,10 @@ Example:
 ```plaintext
 tableau-sales-customer-analytics-dashboard/
 │
-├── README.md
 ├── dashboards/
 ├── dataset/
 ├── documents/
+├── README.md
 ```
 
 ---
