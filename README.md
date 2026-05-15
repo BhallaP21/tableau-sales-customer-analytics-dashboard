@@ -118,6 +118,15 @@ Dataset used: Sample Superstore Dataset
 
 ---
 
+## Business Recommendations
+
+- Focus on high-profit product categories
+- Improve performance of loss-making subcategories
+- Target repeat customers with loyalty programs
+- Monitor below-average weekly sales periods
+
+---
+
 ## Dashboard Screenshots
 
 ### Sales Dashboard
