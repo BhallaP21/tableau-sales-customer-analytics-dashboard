@@ -145,10 +145,8 @@ Dataset used: Sample Superstore Dataset
 
 ## Tableau Public Link
 
-Add your Tableau Public dashboard link here.
+View Interactive Dashboard: https://public.tableau.com/app/profile/parth.bhalla/vizzes
 
-Example:
-[View Interactive Dashboard](YOUR_TABLEAU_PUBLIC_LINK)
 
 ---
 
