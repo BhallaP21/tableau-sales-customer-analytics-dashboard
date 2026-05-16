@@ -155,10 +155,12 @@ View Interactive Dashboard: https://public.tableau.com/app/profile/parth.bhalla/
 ```plaintext
 tableau-sales-customer-analytics-dashboard/
 │
+├── asssets/
 ├── dashboards/
 ├── dataset/
-├── documents/
-├── README.md
+├── documents/README.md
+└── README.md
+
 ```
 
 ---
